@@ -10,7 +10,6 @@ import cv2
 import threading
 import tkinter as tk
 from commands import *
-from listener import *
 from interception import *
 import win32api
 from consts import *
